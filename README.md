@@ -1,117 +1,94 @@
-# 👋 Hello World! I'm Yassine Oularbi
+<div align="center">
 
-## 🚀 About Me
+<p><code>yassineoularbi@github ~ $ ./maintainer.sh</code></p>
 
-Passionate Fullstack Developer specializing in Java Backend and Angular Frontend technologies. Transforming complex ideas into elegant, scalable solutions.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="YassineOularbi animated maintainer system scan" />
+</picture>
+</p>
+</div>
 
----
+<h2>Why I build in public</h2>
 
-## 💻 Tech Stack
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Java</code> · <code>HTML</code> · <code>CSS</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>28 public repositories · 4 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>124 contributions · 24 active days</p></td>
+</tr>
+</table>
 
-### Backend Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<p>Java &amp; Angular developer passionate about crafting innovative web solutions, transforming ideas into elegant and efficient code</p>
 
-### Frameworks & Microservices
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
+<h2>Open-source toolbox</h2>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E98CD?style=for-the-badge&logo=sonarqube&logoColor=white)
+<p><code>yassineoularbi@github ~ $ toolbox --list</code></p>
 
-### Frontend Technologies
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="YassineOularbi open-source technology toolbox" />
+</picture>
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>Java</strong><br /><sub>40%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>23%</sub></td>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>14%</sub></td>
+<td width="17%" align="center"><strong>SCSS</strong><br /><sub>12%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>5%</sub></td>
+<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>5%</sub></td>
+</tr>
+</table>
 
-## 🛠 Detailed Technology Expertise
+<h2>Repositories worth exploring</h2>
 
-### Backend
-- **Frameworks:** JEE, Spring Boot, Spring Security, Spring Cloud
-- **Microservices:** Eureka Discovery, Apache Kafka, Zookeeper
-- **Authentication:** Keycloak
-- **ORM & Database:** Hibernate, MySQL, Flyway
-- **Logging:** Elasticsearch, Kibana, Logstash
-- **Testing:** JUnit, Mockito
-- **Utilities:** MapStruct, Lombok
-- **Documentation:** Swagger (Open API)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&repos=yassineoularbi%2FFILL-ROUGE-TAILORING-ONLINE%2Cyassineoularbi%2FConstructXpert-JEE-JURY-BLANCH%2Cyassineoularbi%2FITSUPPORT-JURY-BLANC%2Cyassineoularbi%2FMAGERAMA-CINEMA-BM-PART-2%2Cyassineoularbi%2Fyassineoularbi.github.io&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&repos=yassineoularbi%2FFILL-ROUGE-TAILORING-ONLINE%2Cyassineoularbi%2FConstructXpert-JEE-JURY-BLANCH%2Cyassineoularbi%2FITSUPPORT-JURY-BLANC%2Cyassineoularbi%2FMAGERAMA-CINEMA-BM-PART-2%2Cyassineoularbi%2Fyassineoularbi.github.io&v=oss-projects-1&mode=dark" width="860" alt="YassineOularbi maintainer repositories" />
+</picture>
+</p>
 
-### Frontend
-- **Frameworks:** Angular
-- **Libraries:** Redux (NGRX), Charts.js, FullCalendar
-- **UI Frameworks:** Bootstrap, Angular Material, PrimeNG
-- **Advanced JS:** Three.js, Swiper.js, WebSocket, Keycloak.js
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/YassineOularbi/ConstructXpert-JEE-JURY-BLANCH">ConstructXpert-JEE-JURY-BLANCH</a></h3><p>A public project looking for its next contributor.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/YassineOularbi/ITSUPPORT-JURY-BLANC">ITSUPPORT-JURY-BLANC</a></h3><p>L'objectif de ce système est de faciliter la gestion des équipements informatiques au sein d'une organisation, ainsi que de fournir un suivi efficace</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/YassineOularbi/MAGERAMA-CINEMA-BM-PART-2">MAGERAMA-CINEMA-BM-PART-2</a></h3><p>Le projet consiste à continuer le développement de site web de cinéma en ajoutant des fonctionnalités comme la Système de notation et commentaires,</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/YassineOularbi/yassineoularbi.github.io">yassineoularbi.github.io</a></h3><p>A public project looking for its next contributor.</p><p><sub>HTML · ⭐ 3</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Contribution activity</h2>
 
-## 🖊️ GitHub Stats
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="YassineOularbi open-source signal" />
+</picture>
+</p>
 
-### Overall Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassineoularbi&show_icons=true&theme=merko)
+<h2>Contribution trail</h2>
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineoularbi&layout=compact&theme=merko)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="YassineOularbi contribution trail" />
+</picture>
+</p>
 
-### Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassineoularbi&theme=merko)
+<hr />
 
-### Detailed Contributions
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassineoularbi&theme=merko)
+<h2>Contribute together</h2>
 
-### Repository Stats
-![Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yassineoularbi&theme=merko)
-![Commits Per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yassineoularbi&theme=merko)
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
----
-
-## 🏆 Achievements
-
-### GitHub Trophies
-![Achievements](https://github-profile-trophy.vercel.app/?username=yassineoularbi&theme=oldie&column=7&margin-w=15&margin-h=15)
-
-### Advanced Metrics Overview
-![Advanced Metrics](https://metrics.lecoq.io/yassineoularbi?template=classic&languages=1&achievements=1&repositories=1&base.indepth=true&base.hireable=true&languages.limit=10&languages.sections=most-used,percentage&achievements.display=detailed&achievements.limit=5&repositories.pinned=4)
-
----
-
-## 🚡 Development Arsenal
-
-### IDEs
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-oularbi-79730424b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yassineoularbi.github.io)
-
----
-
-## 💡 Quick Facts
-
-- 🚀 Specializing in full-stack development with Java and Angular
-- 🌱 Passionate about microservices and cloud-native technologies
-- 💬 Ask me about enterprise software development
-- 🔬 Currently developing TailoringOnline platform & Personal Portfolio
-- 🕍 Learning Apache Kafka, Three.js, Spring Batch
-- 📧 Open to innovative and challenging projects
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yassineoularbi&color=blueviolet)
-
-*Crafted with ❤️ and ☕ by Yassine Oularbi*
-
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=yassineoularbi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157104579%3Fu%3Dfc78eca9aca2227d3d76c089212d12af40b7880e%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="YassineOularbi community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/yassineoularbi">GitHub</a> &nbsp;·&nbsp; <a href="https://yassineoularbi.github.io">Website</a></p>
+<p align="center"><sub>YassineOularbi · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
